@@ -1,4 +1,5 @@
 # Simple-Twitch-Followers-Counter
+[![License](https://img.shields.io/github/license/EddyDevProject/Simple-Twitch-Followers-Counter)](https://github.com/EddyDevProject/Simple-Twitch-Followers-Counter/blob/main/LICENSE)
 ![Build](https://www.travis-ci.com/EddyDevProject/Simple-Twitch-Followers-Counter.svg?branch=main)
 ![PHP](https://img.shields.io/badge/php-%3E%3D5.3-8892bf.svg)
 
