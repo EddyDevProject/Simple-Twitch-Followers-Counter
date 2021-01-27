@@ -3,7 +3,7 @@
 <html>
 
 <head><title>Easy Twitch Followers Counter</title></head>
-//change client_id and redirect_uri
+<!-- change client_id and redirect_uri -->
 <body>
 <div class="button_cont" align="center"><a class="twitch_a" href="https://id.twitch.tv/oauth2/authorize?response_type=code&client_id=YOUR_CLIENT_ID&redirect_uri=YOUR_REDIRECT_URI&scope=user_read" target="_blank" rel="nofollow noopener">Login</a></div>
 </body>
